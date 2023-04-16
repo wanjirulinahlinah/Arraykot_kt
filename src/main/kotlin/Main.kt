@@ -19,7 +19,7 @@ fun main() {
     println(countryarray[3])
     println(countryarray.get(0))
 
-    //add an element to an array
+
 
 
 
